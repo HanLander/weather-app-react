@@ -9,12 +9,7 @@ export default function App() {
         This project was coded by{" "}
         <a href="www.linkedin.com/in/hannah-lander-b02311b0">Hannah Lander</a>{" "}
         and is open-sourced on{" "}
-        <a
-          href="https://github.com/HanLander/react-weather-app"
-          target="_blank"
-        >
-          GitHub
-        </a>
+        <a href="https://github.com/HanLander/react-weather-app">GitHub</a>
       </footer>
     </div>
   );
