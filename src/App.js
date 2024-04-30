@@ -10,9 +10,21 @@ export default function App() {
         <Weather defaultCity="London" />
         <footer>
           This project was coded by{" "}
-          <a href="www.linkedin.com/in/hannah-lander-b02311b0">Hannah Lander</a>{" "}
+          <a
+            href="www.linkedin.com/in/hannah-lander-b02311b0"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Hannah Lander
+          </a>{" "}
           and is open-sourced on{" "}
-          <a href="https://github.com/HanLander/react-weather-app">GitHub</a>
+          <a
+            href="https://github.com/HanLander/react-weather-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
         </footer>
       </div>
     </div>
